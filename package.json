@@ -1,0 +1,9 @@
+{
+  "name":"cssutils",
+  "version":"1.0.0",
+  "description":"Stand-alone, CommonJS compliant library to aid basic CSS operations.",
+  "author":"Azer Koculu <azer@kodfabrik.com>",
+  "keywords":["css"],
+  "directories":{ "lib": "./lib" },
+  "main":"./lib/cssutils.js"
+}
